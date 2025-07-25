@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me sarvaji M
 
 Software Engineer @ Zoho Corporation
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif)">
+<img align="right" width="370" height="290" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 - 🔭 Here's my [portfolio](https://sarvaji18rolex.github.io/portfolio/)                                                 
 - 🌱 I’m currently learning python and sql
 
