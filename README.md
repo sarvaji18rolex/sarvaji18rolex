@@ -20,8 +20,18 @@ Software Engineer @ Zoho Corporation
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![sarvaji M GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
-[![sarvaji M github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarvaji18rolex&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=sarvaji18rolex&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarvaji18rolex&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvaji18rolex&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![sarvaji M github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarvaji18rolex&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)]
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=sarvaji18rolex&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sarvaji18rolex&icon=0&color=0)](https://visitcount.itsvg.in)
+
